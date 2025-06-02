@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bioinformatics-project-tracker/static/css/main.c3cb1c0f.css",
+    "main.js": "/bioinformatics-project-tracker/static/js/main.63e4d706.js",
+    "static/js/977.da75dba3.chunk.js": "/bioinformatics-project-tracker/static/js/977.da75dba3.chunk.js",
+    "static/js/455.4079bde9.chunk.js": "/bioinformatics-project-tracker/static/js/455.4079bde9.chunk.js",
+    "static/js/453.c9374aa4.chunk.js": "/bioinformatics-project-tracker/static/js/453.c9374aa4.chunk.js",
+    "index.html": "/bioinformatics-project-tracker/index.html",
+    "main.c3cb1c0f.css.map": "/bioinformatics-project-tracker/static/css/main.c3cb1c0f.css.map",
+    "main.63e4d706.js.map": "/bioinformatics-project-tracker/static/js/main.63e4d706.js.map",
+    "977.da75dba3.chunk.js.map": "/bioinformatics-project-tracker/static/js/977.da75dba3.chunk.js.map",
+    "455.4079bde9.chunk.js.map": "/bioinformatics-project-tracker/static/js/455.4079bde9.chunk.js.map",
+    "453.c9374aa4.chunk.js.map": "/bioinformatics-project-tracker/static/js/453.c9374aa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3cb1c0f.css",
+    "static/js/main.63e4d706.js"
+  ]
+}
